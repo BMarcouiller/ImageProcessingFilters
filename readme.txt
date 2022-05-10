@@ -65,6 +65,16 @@ if  (|v1 - I(row, col)| < t)
 
 14. binaryedge binaryedge(TH, TL)
 
+15. histostretchcv no parameters
+
+16. histoequalcv no parameters
+
+17. houghtrans no parameters
+
+18. hesobel no parameters
+
+19. hecanny no parameters
+
 *** PARAMETERS FILE ***
 
 These are for parameters:
