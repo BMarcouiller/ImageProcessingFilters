@@ -1,0 +1,5 @@
+baboon.pgm baboon_smoothed-5.pgm 1 0 0 512 512 sep2dsmooth 5
+baboon.pgm baboon_smoothed-9.pgm 1 0 0 512 512 sep2dsmooth 9
+slope.pgm slope-stretch.pgm 1 0 0 800 534 histostretch 0 200
+slope.pgm slope-equal.pgm 1 0 0 800 534 histoequalcv
+tree.pgm tree-edge-sobel.pgm 1 0 0 600 400 hesobel
